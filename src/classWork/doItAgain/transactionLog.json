@@ -1,0 +1,16 @@
+[ {
+  "id" : 1,
+  "reference" : "test",
+  "amount" : 12000.0,
+  "createdAt" : [ 2024, 10, 31 ]
+}, {
+  "id" : 1,
+  "reference" : "test",
+  "amount" : 19000.0,
+  "createdAt" : [ 2024, 10, 31 ]
+}, {
+  "id" : 1,
+  "reference" : "test",
+  "amount" : 17000.0,
+  "createdAt" : [ 2024, 10, 31 ]
+} ]
